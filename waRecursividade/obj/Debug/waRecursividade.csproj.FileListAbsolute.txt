@@ -1,0 +1,10 @@
+D:\Whinchester\FABIO\CD\DICAS\C#\waRecursividade\waRecursividade\bin\Debug\waRecursividade.exe.config
+H:\Whinchester\FABIO\CD\DICAS\C#\waRecursividade\waRecursividade\bin\Debug\waRecursividade.exe.config
+H:\Whinchester\FABIO\CD\DICAS\C#\waRecursividade\waRecursividade\bin\Debug\waRecursividade.exe
+H:\Whinchester\FABIO\CD\DICAS\C#\waRecursividade\waRecursividade\bin\Debug\waRecursividade.pdb
+H:\Whinchester\FABIO\CD\DICAS\C#\waRecursividade\waRecursividade\obj\Debug\waRecursividade.csprojResolveAssemblyReference.cache
+H:\Whinchester\FABIO\CD\DICAS\C#\waRecursividade\waRecursividade\obj\Debug\waRecursividade.frmRecursividade.resources
+H:\Whinchester\FABIO\CD\DICAS\C#\waRecursividade\waRecursividade\obj\Debug\waRecursividade.Properties.Resources.resources
+H:\Whinchester\FABIO\CD\DICAS\C#\waRecursividade\waRecursividade\obj\Debug\waRecursividade.csproj.GenerateResource.Cache
+H:\Whinchester\FABIO\CD\DICAS\C#\waRecursividade\waRecursividade\obj\Debug\waRecursividade.exe
+H:\Whinchester\FABIO\CD\DICAS\C#\waRecursividade\waRecursividade\obj\Debug\waRecursividade.pdb
